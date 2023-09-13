@@ -1,0 +1,29 @@
+
+h1, h2, h3, h4, h5, h6 {
+    color: blue; 
+    background-color: lightgray; 
+}
+
+a {
+    color: red; 
+   
+}
+
+a:hover {
+    color: yellow; 
+}
+
+a:visited {
+    color: green; 
+}
+
+.span-class {
+    font-weight: bold;
+    color: purple;
+}
+
+#div-id {
+    background-color: orange;
+    padding: 10px;
+    border: 1px solid black;
+}
