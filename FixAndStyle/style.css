@@ -1,0 +1,40 @@
+
+  h2 {
+    color: blue;
+  }
+  
+  header {
+    background-color: #33daff;
+  }
+  h1{ 
+color: white;
+}
+
+.doctor {
+    color: orange;
+}
+
+h3 {
+    background-color: yellow;
+}
+
+.redtext {
+    color: red;
+}
+
+h4 {
+    color: yellow;
+    background-color: green;
+}
+
+.art {
+    background-color: lightgreen;
+}
+
+.daughter {
+    background-color: yellow;
+}
+
+h5 {
+    color: red;
+}
