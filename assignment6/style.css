@@ -1,0 +1,106 @@
+
+body {
+    background-image: url(a62.png);
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.container {
+    background-color: white;
+    border: 5px solid black;
+    padding: 60px;
+    margin: 60px;
+    
+    
+}
+
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-weight: normal;
+}
+
+
+h2 {
+    font-family: Helvetica, sans-serif;
+}
+
+
+p {
+    font-family: Georgia, serif;
+    text-align: justify;
+}
+
+
+p a {
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.3s, text-decoration 0.3s;
+}
+
+
+p a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    display: block;
+    margin-bottom: 10px;
+    
+
+}
+
+ul li a {
+    display: block;
+    padding: 10px;
+    color: white;
+    background-color: red;
+    text-decoration: none;
+    transition: background-color 0.3s;
+    width: 200px;
+  
+    
+}
+
+
+ul li a:hover {
+    background-color: darkred;
+}
+
+footer {
+    background-color: red;
+    border: 5px solid black;
+    padding: 10px;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-style: italic;
+    color: white;
+    margin: 0; 
+
+}
+
+img {
+    border: 2px solid black; /* Adjust the border width and style as needed */
+}
+
+img { 
+    margin: 0 0 10px 10px; 
+    float: left;
+}
+
+.bold {
+    font-weight: bold;
+}
+
