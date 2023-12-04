@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: yellow;
+}
+
+#header {
+  color: rgb(218, 0, 0);
+  padding: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+background-color: orange;
+
+}
+
+
+#content {
+  padding: 20px;
+}
+
+
+#thanks {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
